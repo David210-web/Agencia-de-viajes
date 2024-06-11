@@ -1,0 +1,93 @@
+﻿@model ProyectoInvestigacion.Models.Viajes
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Delete</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="container">
+
+    <h3>Estas seguro que desea eliminarlo?</h3>
+    <div>
+        <h4>Viajes</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Nombre)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Continente)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Continente)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Pais)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Pais)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Ciudad)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Ciudad)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Alojamientos)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Alojamientos)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Precio)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Precio)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.ImagenURL)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.ImagenURL)
+            </dd>
+    
+        </dl>
+    
+        @using (Html.BeginForm()) {
+            @Html.AntiForgeryToken()
+    
+            <div class="form-actions no-color">
+                <input type="submit" value="Eliminar" class="btn btn-danger" /> |
+                @Html.ActionLink("Volver al listado", "Index", null,new { @class = "btn btn-secondary" })
+            </div>
+        }
+    </div>
+    </div>
+</body>
+</html>

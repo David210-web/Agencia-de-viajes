@@ -1,0 +1,31 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+@model IEnumerable<ProyectoInvestigacion.Models.Viajes>
+
+    <main>
+        <div class="container">
+            <h2 class="text-center mb-2">¡Los mejores viajes!</h2>
+            <div class="row">
+                @foreach (var viaje in Model)
+                {
+                
+                        <div class="col-md-3 mb-3">
+                            <div class="card" style="width: 18rem;">
+                                <img src="~/Imagenes/Viajes/@(viaje.ImagenURL).jpg" class="card-img-top" alt="..." width="286" height="190">
+                                <div class="card-body">
+                                    <h4 class="card-title">@viaje.Nombre</h4>
+                                    <p class="card-text">Pais: @viaje.Pais - Continente: @viaje.Continente - Ciudad: @viaje.Ciudad - Alojamiento: 
+                                    @viaje.Alojamientos </p>
+                                    <h5 class="card-title">$@viaje.Precio</h5>
+                                    <a href="/Home/Reservacion/@viaje.Id" class="btn btn-primary">Comprar</a>
+                                </div>
+                            </div>
+                        </div>
+        
+
+                }
+
+            </div>
+        </div>
+    </main>

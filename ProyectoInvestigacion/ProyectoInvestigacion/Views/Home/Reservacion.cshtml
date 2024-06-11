@@ -1,0 +1,79 @@
+﻿@{
+    Layout = null;
+}
+@model ProyectoInvestigacion.Models.ReservacionViewModel
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Reservacion</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="w-100 vh-100 d-flex justify-content-center align-items-center bg-light flex-column">
+        <section class="d-flex border rounded p-3 justify-content-between bg-white">
+            <div>
+                <img src="~/Imagenes/Viajes/@(Model.Viaje.ImagenURL).jpg" width="300" height="300" />
+            </div>
+            <div class="mx-2">
+                <h2 class="text-center">@Model.Viaje.Nombre</h2>
+                <h4>País: @Model.Viaje.Pais</h4>
+                <h4>Continente: @Model.Viaje.Continente</h4>
+                <h4>Ciudad: @Model.Viaje.Ciudad</h4>
+                <h4>Alojamientos disponibles: @Model.Viaje.Alojamientos</h4>
+                <h4>Usuario ID: @ViewBag.Message</h4>
+                <h3>Precio: @Model.Viaje.Precio</h3>
+            </div>
+            @using (Html.BeginForm("Reservacion", "Home", FormMethod.Post))
+            {
+                @Html.AntiForgeryToken()
+
+                <input type="hidden" name="Reservacion.ID_Usuario" value="@ViewBag.Message" />
+                <input type="hidden" name="Reservacion.ID_Viaje" value="@Model.Viaje.Id" />
+                <input type="hidden" name="Reservacion.Precio" value="@Model.Viaje.Precio" />
+
+                <div class="mx-2">
+                    <div class="mb-3">
+                        @Html.LabelFor(m => m.Reservacion.Nombre_Reservacion, htmlAttributes: new { @class = "form-label" })
+                        @Html.TextBoxFor(m => m.Reservacion.Nombre_Reservacion, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.Reservacion.Nombre_Reservacion, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="mb-3">
+                        @Html.LabelFor(m => m.Reservacion.Fecha_Inicio, htmlAttributes: new { @class = "form-label" })
+                        @{
+                            // Obtenemos el año actual
+                            int currentYear = DateTime.Now.Year;
+                            // Creamos una cadena con el formato de fecha y hora requerido para datetime-local
+                            string defaultStartDate = $"{currentYear:D4}-MM-ddTHH:mm";
+                        }
+                        @Html.TextBoxFor(m => m.Reservacion.Fecha_Inicio, defaultStartDate, new { @class = "form-control", type = "datetime-local" })
+                        @Html.ValidationMessageFor(m => m.Reservacion.Fecha_Inicio, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="mb-3">
+                        @Html.LabelFor(m => m.Reservacion.Fecha_Final, htmlAttributes: new { @class = "form-label" })
+                        @{
+                            // Creamos una cadena con el formato de fecha y hora requerido para datetime-local
+                            string defaultEndDate = $"{currentYear:D4}-MM-ddTHH:mm";
+                        }
+                        @Html.TextBoxFor(m => m.Reservacion.Fecha_Final, defaultEndDate, new { @class = "form-control", type = "datetime-local" })
+                        @Html.ValidationMessageFor(m => m.Reservacion.Fecha_Final, "", new { @class = "text-danger" })
+                    </div>
+
+
+                    <button type="submit" class="btn btn-primary">Reservar</button>
+                </div>
+
+            }
+        </section>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/jqueryval")
+</body>
+</html>

@@ -1,0 +1,64 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Registro</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="w-100 vh-100 d-flex justify-content-center align-items-center bg-light flex-column">
+        <form method="post" action="@Url.Action("Registro","Acceso")" class="border px-4 py-3 rounded bg-white">
+            <h2>Registrate</h2>
+            @if (!ViewData.ModelState.IsValid)
+            {
+                <div class="alert alert-danger" role="alert">
+                    <ul>
+                        @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+                        {
+                            <li>@error.ErrorMessage</li>
+                        }
+                    </ul>
+                </div>
+            }
+            <div>
+                <label for="Username" class="col-form-label">Nombre de usuario</label>
+                <input type="text" name="Username" class="form-control" />
+            </div>
+            <div>
+                <label>Correo</label>
+                <input type="email" name="Email" class="form-control" />
+            </div>
+            <div>
+                <label>Telefono</label>
+                <input type="number" name="Telefono" class="form-control" />
+            </div>
+            <div>
+                <label>Pais</label>
+                <select name="Pais" class="form-select">
+                    <option value="El Salvador">El Salvador</option>
+                    <option value="Mexico">Mexico</option>
+                    <option value="Argentina">Argentina</option>
+                    <option value="Honduras">Honduras</option>
+                    <option value="Estados Unidos">Estados unidos</option>
+                    <option value="Chile">Chile</option>
+                </select>
+            </div>
+            <div>
+                <label>Password</label>
+                <input type="password" name="Password" class="form-control" />
+            </div>
+            <input type="submit" value="Registrarse" class="btn btn-primary mt-2" />
+        </form>
+        <p> ¿Ya tienes una cuenta? <a href="/Acceso/Login">Inicia sesion</a> </p>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+</body>
+</html>

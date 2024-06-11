@@ -1,0 +1,435 @@
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\ProyectoInvestigacion.dll.config
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\ProyectoInvestigacion.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\ProyectoInvestigacion.pdb
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\csc.exe
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\csc.exe.config
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\csc.rsp
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\csi.exe
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\csi.exe.config
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\csi.rsp
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.AppContext.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Collections.Immutable.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Console.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Globalization.Calendars.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.IO.Compression.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.IO.FileSystem.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Net.Http.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Net.Sockets.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Reflection.Metadata.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.ValueTuple.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Xml.XPath.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\vbc.exe
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\vbc.exe.config
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\vbc.rsp
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\VBCSCompiler.exe
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\VBCSCompiler.exe.config
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\Antlr3.Runtime.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\Microsoft.Web.Infrastructure.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\Newtonsoft.Json.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.Helpers.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.Mvc.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.Optimization.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.Razor.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.WebPages.Deployment.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.WebPages.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.WebPages.Razor.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\WebGrease.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.Helpers.xml
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.Mvc.xml
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.Optimization.xml
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.Razor.xml
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.WebPages.xml
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.WebPages.Deployment.xml
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.WebPages.Razor.xml
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\Newtonsoft.Json.xml
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\Antlr3.Runtime.pdb
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\es\System.Web.Helpers.resources.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\es\System.Web.Mvc.resources.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\es\System.Web.Optimization.resources.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\es\System.Web.Razor.resources.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\es\System.Web.WebPages.resources.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\obj\Debug\ProyectoInvestigacion.csproj.AssemblyReference.cache
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\obj\Debug\ProyectoInvestigacion.csproj.CoreCompileInputs.cache
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\obj\Debug\Proyecto.EE57DEC4.Up2Date
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\obj\Debug\ProyectoInvestigacion.dll
+D:\Universidad\Ciclo 01 (Enero 2024)\Programacion II\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\obj\Debug\ProyectoInvestigacion.pdb
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\ProyectoInvestigacion.dll.config
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\ProyectoInvestigacion.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\ProyectoInvestigacion.pdb
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\csc.exe
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\csc.exe.config
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\csc.rsp
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\csi.exe
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\csi.exe.config
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\csi.rsp
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.AppContext.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Console.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Net.Http.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Net.Sockets.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\vbc.exe
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\vbc.exe.config
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\vbc.rsp
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\Antlr3.Runtime.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\Newtonsoft.Json.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.Helpers.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.Mvc.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.Optimization.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.Razor.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.WebPages.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.WebPages.Razor.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\WebGrease.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.Helpers.xml
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.Mvc.xml
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.Optimization.xml
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.Razor.xml
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.WebPages.xml
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.WebPages.Razor.xml
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\Newtonsoft.Json.xml
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\Antlr3.Runtime.pdb
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\es\System.Web.Helpers.resources.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\es\System.Web.Mvc.resources.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\es\System.Web.Optimization.resources.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\es\System.Web.Razor.resources.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\es\System.Web.WebPages.resources.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\obj\Debug\ProyectoInvestigacion.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\obj\Debug\ProyectoInvestigacion.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\obj\Debug\ProyectoInvestigacion.csproj.CopyComplete
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\obj\Debug\ProyectoInvestigacion.dll
+C:\Users\MINEDUCYT\Downloads\Trabajo de investigacion\Trabajo de investigacion\ProyectoInvestigacion\ProyectoInvestigacion\obj\Debug\ProyectoInvestigacion.pdb
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\ProyectoInvestigacion.dll.config
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\ProyectoInvestigacion.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\ProyectoInvestigacion.pdb
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\csc.exe
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\csc.exe.config
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\csc.rsp
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\csi.exe
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\csi.exe.config
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\csi.rsp
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.AppContext.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Collections.Immutable.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Console.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Globalization.Calendars.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.IO.Compression.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.IO.FileSystem.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Net.Http.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Net.Sockets.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Reflection.Metadata.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.ValueTuple.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Xml.XPath.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\vbc.exe
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\vbc.exe.config
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\vbc.rsp
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\VBCSCompiler.exe
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\VBCSCompiler.exe.config
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\Antlr3.Runtime.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\Microsoft.Web.Infrastructure.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\Newtonsoft.Json.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.Helpers.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.Mvc.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.Optimization.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.Razor.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.WebPages.Deployment.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.WebPages.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.WebPages.Razor.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\WebGrease.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.Helpers.xml
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.Mvc.xml
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.Optimization.xml
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.Razor.xml
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.WebPages.xml
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.WebPages.Deployment.xml
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.WebPages.Razor.xml
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\Newtonsoft.Json.xml
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\Antlr3.Runtime.pdb
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\es\System.Web.Helpers.resources.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\es\System.Web.Mvc.resources.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\es\System.Web.Optimization.resources.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\es\System.Web.Razor.resources.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\es\System.Web.WebPages.resources.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\obj\Debug\ProyectoInvestigacion.csproj.AssemblyReference.cache
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\obj\Debug\ProyectoInvestigacion.csproj.CoreCompileInputs.cache
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\obj\Debug\Proyecto.EE57DEC4.Up2Date
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\obj\Debug\ProyectoInvestigacion.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\obj\Debug\ProyectoInvestigacion.pdb
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\ProyectoInvestigacion.dll.config
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\ProyectoInvestigacion.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\ProyectoInvestigacion.pdb
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\csc.exe
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\csc.exe.config
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\csc.rsp
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\csi.exe
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\csi.exe.config
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\csi.rsp
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.AppContext.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Console.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Net.Http.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\vbc.exe
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\vbc.exe.config
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\vbc.rsp
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\Antlr3.Runtime.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\Newtonsoft.Json.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.Helpers.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.Mvc.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.Optimization.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.Razor.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.WebPages.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\WebGrease.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.Helpers.xml
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.Mvc.xml
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.Optimization.xml
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.Razor.xml
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.WebPages.xml
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\Newtonsoft.Json.xml
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\Antlr3.Runtime.pdb
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\es\System.Web.Razor.resources.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\obj\Debug\ProyectoInvestigacion.csproj.AssemblyReference.cache
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\obj\Debug\ProyectoInvestigacion.csproj.CoreCompileInputs.cache
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\obj\Debug\ProyectoInvestigacion.csproj.CopyComplete
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\obj\Debug\ProyectoInvestigacion.dll
+C:\Users\Lab3\Downloads\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\obj\Debug\ProyectoInvestigacion.pdb
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\ProyectoInvestigacion.dll.config
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\ProyectoInvestigacion.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\ProyectoInvestigacion.pdb
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\csc.exe
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\csc.exe.config
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\csc.rsp
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\csi.exe
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\csi.exe.config
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\csi.rsp
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.AppContext.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Collections.Immutable.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Console.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Globalization.Calendars.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.IO.Compression.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.IO.FileSystem.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Net.Http.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Net.Sockets.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Reflection.Metadata.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.ValueTuple.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Xml.XPath.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\vbc.exe
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\vbc.exe.config
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\vbc.rsp
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\VBCSCompiler.exe
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\VBCSCompiler.exe.config
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\Antlr3.Runtime.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\Microsoft.Web.Infrastructure.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\Newtonsoft.Json.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.Helpers.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.Mvc.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.Optimization.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.Razor.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.WebPages.Deployment.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.WebPages.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.WebPages.Razor.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\WebGrease.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.Helpers.xml
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.Mvc.xml
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.Optimization.xml
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.Razor.xml
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.WebPages.xml
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.WebPages.Deployment.xml
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\System.Web.WebPages.Razor.xml
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\Newtonsoft.Json.xml
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\Antlr3.Runtime.pdb
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\es\System.Web.Helpers.resources.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\es\System.Web.Mvc.resources.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\es\System.Web.Optimization.resources.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\es\System.Web.Razor.resources.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\es\System.Web.WebPages.resources.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\obj\Debug\ProyectoInvestigacion.csproj.AssemblyReference.cache
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\obj\Debug\ProyectoInvestigacion.csproj.CoreCompileInputs.cache
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\obj\Debug\Proyecto.EE57DEC4.Up2Date
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\obj\Debug\ProyectoInvestigacion.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\obj\Debug\ProyectoInvestigacion.pdb
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Buffers.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Memory.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Numerics.Vectors.dll
+D:\Descargas\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\ProyectoInvestigacion\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll

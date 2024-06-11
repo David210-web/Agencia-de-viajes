@@ -1,0 +1,260 @@
+create database LE_MIGRATION
+go 
+
+use LE_MIGRATION
+go
+
+create table Clientes(
+ID_Usuario int primary key identity(1,1),
+Nombre_Usuario varchar(100),
+Contraseña varchar(100),
+Correo varchar(100),
+Telefono varchar (15),
+Pais varchar(100)
+)
+go
+
+CREATE PROCEDURE sp_registrarUsuario
+@user varchar(50),
+@email varchar(150),
+@password varchar(50),
+@telefono varchar(15),
+@pais varchar(100)
+AS
+BEGIN
+	INSERT INTO Clientes(Nombre_Usuario,contraseña,correo,Telefono,Pais)
+	VALUES (@user,@password,@email,@telefono,@pais)
+END
+GO
+
+CREATE PROCEDURE sp_verificarCuenta
+	@user varchar(50),
+	@password varchar(50)
+AS
+BEGIN
+	IF(EXISTS (SELECT * FROM Clientes where Nombre_Usuario = @user 
+	and Contraseña = @password))
+		SELECT ID_Usuario FROM Clientes where Nombre_Usuario = @user 
+		and Contraseña = @password
+	ELSE
+		SELECT '0'
+END
+GO
+
+CREATE TABLE Viajes (
+    ID_Viaje int PRIMARY KEY IDENTITY(1,1),
+    Nombre_Viaje varchar(255) NOT NULL,
+    Continente varchar(100) NOT NULL,
+    Pais varchar(150) NOT NULL,
+    Ciudad varchar(150) NOT NULL,
+    Alojamientos varchar(250),
+    Precio decimal(10,2) NOT NULL,
+    Imagen_URL varchar(255)
+);
+go
+
+INSERT INTO Viajes (Nombre_Viaje, Continente, Pais, Ciudad, Alojamientos, Precio, Imagen_URL)
+VALUES 
+('Vacaciones en Barcelona', 'Europa', 'España', 'Barcelona', 'Hotel Catalunya', 1000.00, 'url_imagen_1'),
+('Aventura en Machu Picchu', 'América del Sur', 'Perú', 'Cusco', 'Hotel Machu Picchu', 1200.00, 'url_imagen_2'),
+('Explorando París', 'Europa', 'Francia', 'París', 'Hotel Eiffel', 1500.00, 'url_imagen_3'),
+('Relax en las Playas de Tailandia', 'Asia', 'Tailandia', 'Phuket', 'Resort Paradise', 2000.00, 'url_imagen_4'),
+('Escapada a Roma', 'Europa', 'Italia', 'Roma', 'Hotel Coliseo', 1300.00, 'url_imagen_5'),
+('Aventura en el Gran Cañón', 'América del Norte', 'Estados Unidos', 'Arizona', 'Hotel Grand Canyon Lodge', 1800.00, 'url_imagen_6'),
+('Descubriendo Tokio', 'Asia', 'Japón', 'Tokio', 'Hotel Tokyo Tower', 1700.00, 'url_imagen_7'),
+('Vacaciones en Ámsterdam', 'Europa', 'Países Bajos', 'Ámsterdam', 'Hotel Amsterdam Central', 1100.00, 'url_imagen_8'),
+('Exploración en el Amazonas', 'América del Sur', 'Brasil', 'Manaus', 'Lodge Amazonía', 2200.00, 'url_imagen_9'),
+('City Break en Nueva York', 'América del Norte', 'Estados Unidos', 'Nueva York', 'Hotel Manhattan', 1900.00, 'url_imagen_10'),
+('Maravillas de Estambul', 'Asia', 'Turquía', 'Estambul', 'Hotel Sultanahmet', 1600.00, 'url_imagen_11'),
+('Safari en Serengeti', 'África', 'Tanzania', 'Arusha', 'Lodge Serengeti', 2500.00, 'url_imagen_12'),
+('Cultura en Kioto', 'Asia', 'Japón', 'Kioto', 'Hotel Gion', 1400.00, 'url_imagen_13'),
+('Aventura en la Patagonia', 'América del Sur', 'Argentina', 'El Calafate', 'Hotel Patagonia', 2300.00, 'url_imagen_14'),
+('Explorando Petra', 'Asia', 'Jordania', 'Petra', 'Hotel Petra View', 2000.00, 'url_imagen_15'),
+('Descanso en las Islas Griegas', 'Europa', 'Grecia', 'Santorini', 'Hotel Santorini Bliss', 1700.00, 'url_imagen_16'),
+('Tour por la Gran Muralla China', 'Asia', 'China', 'Pekín', 'Hotel Forbidden City', 2100.00, 'url_imagen_17'),
+('Vacaciones en Dubái', 'Asia', 'Emiratos Árabes Unidos', 'Dubái', 'Hotel Burj Khalifa', 2200.00, 'url_imagen_18'),
+('Descubriendo la Ciudad del Vaticano', 'Europa', 'Vaticano', 'Ciudad del Vaticano', 'Hotel Vatican Gardens', 1400.00, 'url_imagen_19'),
+('Aventura en la Selva Amazónica', 'América del Sur', 'Perú', 'Iquitos', 'Lodge Amazon Jungle', 2400.00, 'url_imagen_20'),
+('Maravillas de Sydney', 'Oceanía', 'Australia', 'Sydney', 'Hotel Sydney Harbour', 1900.00, 'url_imagen_21'),
+('Descanso en las Maldivas', 'Asia', 'Maldivas', 'Malé', 'Resort Maldives Paradise', 2500.00, 'url_imagen_22'),
+('Aventura en la Ruta 66', 'América del Norte', 'Estados Unidos', 'California', 'Motel Route 66', 1800.00, 'url_imagen_23'),
+('Explorando la Antigua Roma', 'Europa', 'Italia', 'Roma', 'Hotel Pantheon', 1600.00, 'url_imagen_24'),
+('Vacaciones en Río de Janeiro', 'América del Sur', 'Brasil', 'Río de Janeiro', 'Hotel Copacabana Palace', 2000.00, 'url_imagen_25'),
+('Escapada a Santorini', 'Europa', 'Grecia', 'Santorini', 'Hotel Santorini View', 1700.00, 'url_imagen_26'),
+('Descanso en Bali', 'Asia', 'Indonesia', 'Bali', 'Resort Bali Paradise', 2200.00, 'url_imagen_27'),
+('Explorando la Gran Barrera de Coral', 'Oceanía', 'Australia', 'Queensland', 'Hotel Coral Reef', 2300.00, 'url_imagen_28'),
+('Vacaciones en Cancún', 'América del Norte', 'México', 'Cancún', 'Resort Cancun Beach', 1900.00, 'url_imagen_29'),
+('City Break en Londres', 'Europa', 'Reino Unido', 'Londres', 'Hotel London Eye', 1500.00, 'url_imagen_30'),
+('Aventura en el Desierto del Sáhara', 'África', 'Marruecos', 'Merzouga', 'Campamento Sahara', 2100.00, 'url_imagen_31'),
+('Explorando la Gran Muralla China', 'Asia', 'China', 'Pekín', 'Hotel Great Wall', 2000.00, 'url_imagen_32'),
+('Descanso en las Islas Maldivas', 'Asia', 'Maldivas', 'Malé', 'Resort Maldives Dream', 2400.00, 'url_imagen_33'),
+('Vacaciones en Venecia', 'Europa', 'Italia', 'Venecia', 'Hotel Canal Grande', 1700.00, 'url_imagen_34');
+GO
+
+CREATE PROCEDURE sp_encontrarProducto
+@id int
+AS
+BEGIN
+	SELECT * FROM Viajes where ID_Viaje = @id
+END
+GO
+
+CREATE procedure sp_viajesPrincipales
+as
+begin
+	SELECT Top(8) * from Viajes;
+end
+GO
+
+
+create table Reservaciones(
+ID_Reservacion int Primary key identity(1,1),
+ID_Usuario int,
+ID_Viaje int,
+Nombre_Reservacion varchar(100),
+Precio decimal,
+Fecha_Inicio datetime,
+Fecha_Final datetime
+)
+go
+
+CREATE PROCEDURE sp_InsertarReservaciones
+@ID_Usuario int,
+@ID_Viaje int,
+@Nombre_Reservacion varchar(100),
+@Precio decimal,
+@Fecha_Inicio datetime,
+@Fecha_Final datetime
+AS
+BEGIN
+	INSERT INTO Reservaciones(ID_Usuario,ID_Viaje,Nombre_Reservacion,Precio,Fecha_Inicio,Fecha_Final) VALUES 
+	(@ID_Usuario,@ID_Viaje,@Nombre_Reservacion,@Precio,@Fecha_Inicio,@Fecha_Final)
+END
+GO
+
+CREATE PROCEDURE sp_historialReservaciones
+	@id int
+AS
+BEGIN
+SELECT r.ID_Reservacion, r.ID_Usuario,r.ID_Viaje,v.Nombre_Viaje,r.Nombre_Reservacion,r.precio,r.Fecha_Inicio,r.Fecha_Final FROM Reservaciones r
+INNER JOIN Viajes v on v.ID_Viaje = r.ID_Viaje
+WHERE ID_Usuario = @id
+END
+GO
+
+
+CREATE PROCEDURE sp_borrarReservacion
+@id int
+AS
+BEGIN
+	DELETE FROM Reservaciones where ID_Reservacion = @id
+END
+GO
+
+CREATE PROCEDURE sp_modificarReservacion
+@fecha_inicio datetime,
+@fecha_final datetime,
+@id int
+AS
+BEGIN
+	UPDATE Reservaciones SET Fecha_Inicio = @fecha_inicio , Fecha_Final = @fecha_final where ID_Reservacion = @id
+END
+GO
+
+
+ALTER TABLE Clientes ADD  rol varchar(20) default 'user'
+go
+
+UPDATE Clientes set rol = 'user'
+go 
+
+INSERT INTO Clientes (Nombre_Usuario,
+Contraseña,rol) values ('Admin','control123','admin')
+go
+
+ALTER PROCEDURE sp_verificarCuenta
+	@user varchar(50),
+	@password varchar(50)
+	
+AS
+BEGIN
+	IF(EXISTS (SELECT * FROM Clientes where Nombre_Usuario = @user 
+	and Contraseña = @password ))
+		SELECT ID_Usuario FROM Clientes where Nombre_Usuario = @user 
+		and Contraseña = @password
+	ELSE
+		SELECT '0'
+END
+GO
+
+CREATE PROCEDURE sp_GetRol
+	@id int
+AS
+BEGIN
+	IF(EXISTS (SELECT * FROM Clientes where ID_Usuario = @id ))
+		SELECT rol FROM Clientes where ID_Usuario = @id
+	ELSE
+		SELECT '0'
+END
+go
+
+
+CREATE PROCEDURE sp_InsertarViaje
+    @Nombre_Viaje VARCHAR(255),
+    @Continente VARCHAR(100),
+    @Pais VARCHAR(150),
+    @Ciudad VARCHAR(150),
+    @Alojamientos VARCHAR(250),
+    @Precio DECIMAL(10, 2),
+    @Imagen_URL VARCHAR(255)
+AS
+BEGIN
+    INSERT INTO Viajes (Nombre_Viaje, Continente, Pais, Ciudad, Alojamientos, Precio, Imagen_URL)
+    VALUES (@Nombre_Viaje, @Continente, @Pais, @Ciudad, @Alojamientos, @Precio, @Imagen_URL);
+END
+go
+
+
+
+CREATE PROCEDURE sp_EliminarViaje
+    @ID_Viaje INT
+AS
+BEGIN
+    DELETE FROM Viajes
+    WHERE ID_Viaje = @ID_Viaje;
+END
+go
+
+CREATE PROCEDURE sp_ActualizarViaje
+    @ID_Viaje INT,
+    @Nombre_Viaje VARCHAR(255),
+    @Continente VARCHAR(100),
+    @Pais VARCHAR(150),
+    @Ciudad VARCHAR(150),
+    @Alojamientos VARCHAR(250),
+    @Precio DECIMAL(10, 2),
+    @Imagen_URL VARCHAR(255)
+AS
+BEGIN
+    UPDATE Viajes
+    SET 
+        Nombre_Viaje = @Nombre_Viaje,
+        Continente = @Continente,
+        Pais = @Pais,
+        Ciudad = @Ciudad,
+        Alojamientos = @Alojamientos,
+        Precio = @Precio,
+        Imagen_URL = @Imagen_URL
+    WHERE 
+        ID_Viaje = @ID_Viaje;
+END
+go
+
+
+-- Agregar clave externa de Clientes a Reservaciones
+ALTER TABLE Reservaciones
+ADD CONSTRAINT FK_Reservaciones_Clientes FOREIGN KEY (ID_Usuario) REFERENCES Clientes(ID_Usuario);
+
+-- Agregar clave externa de Viajes a Reservaciones
+ALTER TABLE Reservaciones
+ADD CONSTRAINT FK_Reservaciones_Viajes FOREIGN KEY (ID_Viaje) REFERENCES Viajes(ID_Viaje);

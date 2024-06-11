@@ -1,0 +1,78 @@
+﻿@model IEnumerable<ProyectoInvestigacion.Models.Viajes>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="container">
+    <h2>Viajes</h2>
+
+    <p>
+        @Html.ActionLink("Crear nuevo registro", "Create",null, new { @class = "btn btn-primary" })
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Continente)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Pais)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ciudad)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Alojamientos)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Precio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ImagenURL)
+                @*<img src="~/Imagenes/Viajes/@Html.DisplayNameFor(model => model.ImagenURL)" width="50" height="50"/>*@
+            </th>
+            <th></th>
+        </tr>
+
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Continente)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pais)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ciudad)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Alojamientos)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Precio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ImagenURL)
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "Edit", new { id=item.Id }, new {@class = "btn btn-success"}) |
+                @Html.ActionLink("Detalles", "Details", new { id=item.Id }, new { @class = "btn btn-dark" }) |
+                @Html.ActionLink("Eliminar", "Delete", new { id=item.Id }, new { @class = "btn btn-danger mt-2" })
+            </td>
+        </tr>
+    }
+
+    </table>
+
+
+</div>

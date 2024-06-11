@@ -1,0 +1,76 @@
+﻿@{
+    ViewBag.Title = "Historial";
+}
+@model IEnumerable<ProyectoInvestigacion.Models.HistorialReservaciones>
+
+<main>
+    @foreach (var reservacion in Model)
+    {
+        <div class="border rounded p-2 bg-success bg-opacity-75 text-white mb-3">
+            <h3>@reservacion.Nombre</h3>
+            <p>Hecha por @reservacion.PersonaReservacion a un precio de $@reservacion.Precio con fecha de inicio en @reservacion.Fecha_Inicio y termina el @reservacion.Fecha_Final</p>
+            <div class="d-flex align-items-center gap-2">
+                <button class="btn btn-danger" data-toggle="modal" data-target="#confirmDeleteModal" data-id="@reservacion.Id">Eliminar @reservacion.Id</button>
+            </div>
+        </div>
+    }
+</main>
+
+<!-- Modal -->
+<div class="modal fade" id="confirmDeleteModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Confirmación de Eliminación</h5>
+                <button type="button" class="close btn btn-light" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                ¿Estás seguro de que deseas eliminar esta reservación?
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal" id="cancelButton">Cancelar</button>
+                <button type="button" class="btn btn-danger" id="confirmDeleteButton">Eliminar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        var deleteUrl = '';
+
+        // Obtener todos los botones de eliminar y agregar un listener a cada uno
+        var deleteButtons = document.querySelectorAll(".btn-danger[data-id]");
+        deleteButtons.forEach(function (button) {
+            button.addEventListener("click", function () {
+                // Obtener el ID de la reservación desde el atributo data-id
+                var reservacionId = this.getAttribute("data-id");
+                // Construir la URL de eliminación
+                deleteUrl = '/Home/EliminarReservacion/' + reservacionId;
+                // Almacenar el ID en un atributo de datos del botón de confirmación
+                var confirmButton = document.getElementById("confirmDeleteButton");
+                confirmButton.setAttribute("data-id", reservacionId);
+            });
+        });
+
+        // Agregar listener al botón de confirmar eliminación
+        var confirmDeleteButton = document.getElementById("confirmDeleteButton");
+        confirmDeleteButton.addEventListener("click", function () {
+            // Obtener el ID de la reservación desde el atributo data-id del botón de confirmación
+            var reservacionId = this.getAttribute("data-id");
+            // Construir la URL de eliminación
+            var deleteUrl = '/Home/EliminarReservacion/' + reservacionId;
+            // Redirigir a la URL de eliminación
+            window.location.href = deleteUrl;
+        });
+
+        // Agregar listener al botón de cancelar en el modal
+        var cancelButton = document.getElementById("cancelButton");
+        cancelButton.addEventListener("click", function () {
+            // Ocultar el modal de confirmación
+            $('#confirmDeleteModal').modal('hide');
+        });
+    });
+</script>

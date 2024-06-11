@@ -1,0 +1,45 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="w-100 vh-100 d-flex justify-content-center align-items-center bg-light flex-column">
+        <form method="post" action="@Url.Action("Login","Acceso")" class="border px-4 py-3 rounded bg-white">
+            <h2>Iniciar Sesion</h2>
+            <div>
+                <label for="Username" class="col-form-label">Nombre de usuario</label>
+                <input type="text" name="Username" class="form-control" />
+            </div>
+
+            <div>
+                <label>Password</label>
+                <input type="password" name="Password" class="form-control"  />
+            </div>
+
+            @if (ViewData["Mensaje"] != null)
+            {
+                <div class="alert alert-danger mt-2" role="alert">
+                    @ViewData["Mensaje"]
+                </div>
+            }
+
+            <input type="submit" value="Ingresar" class="btn btn-primary mt-2"  />
+        </form>
+
+        <p>¿No tienes una cuenta? <a href="/Acceso/Registro">Registrate</a> </p>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+</body>
+</html>
